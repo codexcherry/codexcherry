@@ -265,8 +265,25 @@
   </a>
 </div>
 
-<!-- FOOTER SECTION -->
-<hr>
+<!-- ADVANCED FOOTER SECTION -->
 <div align="center">
-  <h3>Thanks for visiting!👋</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=24&fontColor=white&animation=twinkling&fontAlignY=40" width="100%" alt="Footer" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%7C+Full-Stack+Developer;Transforming+Ideas+into+Reality;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/codexcherry/codexcherry/stargazers">
+    <img src="https://img.shields.io/github/stars/codexcherry/codexcherry?style=for-the-badge&color=gold" alt="Stars" />
+  </a>
+  
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg?style=for-the-badge" alt="Made with Love" />
+</div>
+
+<div align="center">
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" width="500" />
+  </p>
 </div>
