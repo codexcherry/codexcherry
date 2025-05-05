@@ -73,27 +73,6 @@
   <p align="left" width="100%">
     AI & ML specialist with a passion for crafting intelligent systems that solve real-world problems. My journey spans multiple domains:
   </p>
-  
-  ```javascript
-  {
-    "education": {
-      "institute": "M.S. Ramaiah Institute of Technology",
-      "degree": "B.E. in AI & ML (2023-2026)",
-      "cgpa": 7.73
-    },
-    "experience": [
-      { "role": "Cybersecurity Engineer Intern", "company": "Excerpt Technologies", "year": 2023 },
-      { "role": "Software Testing Intern", "company": "iTriangle Infotech", "year": 2023 }
-    ],
-    "skills": {
-      "languages": ["Python", "C++", "JavaScript", "SQL"],
-      "frameworks": ["TensorFlow", "PyTorch", "React", "Node.js"],
-      "domains": ["Computer Vision", "NLP", "Full-Stack Dev", "Cybersecurity"]
-    },
-    "currentFocus": "Building intelligent systems with ethical AI principles",
-    "funFact": "I can debug code in my dreams!"
-  }
-  ```
 </div>
 
 <!-- TECH RADAR -->
