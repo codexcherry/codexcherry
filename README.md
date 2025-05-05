@@ -6,6 +6,7 @@
 <!-- CONTRIBUTION ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Animation" width="100%"/>
+  <p align="center"><i>GitHub Space Invaders - Turns commits into Space Invaders enemies!</i></p>
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
@@ -26,124 +27,103 @@
   </a>
 </div>
 
-<!-- ADVANCED ABOUT ME SECTION -->
+<!-- ABOUT ME SECTION -->
+<h2 align="center">🧑‍💻 About Me</h2>
+
 <div align="center">
-  <h2>🚀 <b>About Me</b></h2>
-  <table style="width:100%; border:none; background:transparent;">
-    <tr style="background:transparent;">
-      <td style="width:55%; vertical-align:top; background:transparent; border:none;">
-        <p align="left" style="font-size:1.1em;">
-          <img src="https://img.shields.io/badge/-AI%20%26%20ML%20Engineer-0d1117?style=flat-square&logo=python&logoColor=yellow"/>
-          <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/-Cybersecurity%20Explorer-0d1117?style=flat-square&logo=hackthebox&logoColor=green"/>
-          <br><br>
-          Hi! I'm <b>Nithin V S</b>, a passionate engineer who loves building intelligent, ethical, and impactful technology.<br><br>
-          <ul>
-            <li>🎓 <b>B.E. in AI & ML</b> @ MSRIT (2023-2026), CGPA: 7.73</li>
-            <li>💼 <b>Internships:</b> Cybersecurity @ Excerpt Technologies, Software Testing @ iTriangle Infotech</li>
-            <li>🧠 <b>Focus:</b> Computer Vision, NLP, Edge AI, Blockchain, Ethical AI</li>
-            <li>🏆 <b>Fun Fact:</b> I can debug code in my dreams!</li>
-          </ul>
-        </p>
-      </td>
-      <td style="width:45%; vertical-align:top; background:transparent; border:none;">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-        </div>
-        <br>
-        <div align="center">
-          <img src="https://img.shields.io/badge/AI%20%7C%20ML-blue?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Computer%20Vision-green?style=flat-square"/>
-          <img src="https://img.shields.io/badge/NLP-orange?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Edge%20AI-cyan?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Blockchain-black?style=flat-square"/>
-        </div>
-      </td>
-    </tr>
-  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> <b>About Me</b></h2>
-  
-  <img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c7e33d8c44d0bd5587c7595a1a6e4a30b6a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+  <p>
+    I'm a <b>Computer Science Diploma Graduate</b> and current <b>B.E. in Artificial Intelligence & Machine Learning</b> student at <b>M.S. Ramaiah Institute of Technology (2026)</b>. My focus lies at the intersection of AI, human-computer interaction, and system automation.
+  </p>
+
+  <p>
+    With a passion for building <b>intelligent systems</b> that solve real-world problems, I specialize in developing <b>automation tools</b>, <b>gesture/voice interfaces</b>, and <b>data-driven applications</b>. My projects have been recognized in hackathons and competitions for their innovation and technical excellence.
+  </p>
 </div>
 
-<!-- TECH RADAR -->
-<div align="center">
-  <h3>🧠 Tech Radar & Research Focus</h3>
-  
-  <table style="background: transparent; border: none; width: 100%;">
-    <tr style="background: transparent;">
-      <td align="center" width="33%" style="background: transparent; border: none; padding: 10px;">
-        <div style="border-radius: 10px; padding: 15px 10px; background: rgba(92, 45, 145, 0.1);">
-          <img src="https://img.shields.io/badge/AI%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" alt="AI Vision">
-          <br>
-          <b>Computer Vision & Neural Systems</b>
-          <br>
-          <i>Working on pose estimation models with 97.8% accuracy and low latency</i>
-        </div>
-      </td>
-      <td align="center" width="33%" style="background: transparent; border: none; padding: 10px;">
-        <div style="border-radius: 10px; padding: 15px 10px; background: rgba(255, 111, 0, 0.1);">
-          <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP">
-          <br>
-          <b>Advanced Language Models</b>
-          <br>
-          <i>Fine-tuning models on domain-specific data for context-aware applications</i>
-        </div>
-      </td>
-      <td align="center" width="33%" style="background: transparent; border: none; padding: 10px;">
-        <div style="border-radius: 10px; padding: 15px 10px; background: rgba(0, 173, 216, 0.1);">
-          <img src="https://img.shields.io/badge/Edge%20AI-00ADD8?style=for-the-badge&logo=arduino&logoColor=white" alt="Edge AI">
-          <br>
-          <b>Edge Computing & TinyML</b>
-          <br>
-          <i>Optimizing models to run on resource-constrained IoT devices</i>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Professional Experience</h3>
+      <ul>
+        <li>
+          <b>Cybersecurity Engineer Intern</b> — Excerpt Technologies<br>
+          <i>Enhanced OTP security protocols & implemented firewall configurations</i>
+        </li>
+        <li>
+          <b>Software Testing Intern</b> — iTriangle Infotech<br>
+          <i>Performed automated testing & collaborated with development teams</i>
+        </li>
+      </ul>
+      <h3 align="center">🎓 Education</h3>
+      <ul>
+        <li>
+          <b>B.E. in AI & ML</b> — M.S. Ramaiah Institute of Technology<br>
+          <i>CGPA: 7.73/10.00 (2023-2026)</i>
+        </li>
+        <li>
+          <b>Diploma in Computer Science</b> — Government Polytechnic<br>
+          <i>CGPA: 9.45/10.00 (Completed: 2023)</i>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Research Interests</h3>
+      <ul>
+        <li><b>Computer Vision & Gesture Recognition</b></li>
+        <li><b>Natural Language Processing & Voice Interfaces</b></li>
+        <li><b>Human-Computer Interaction</b></li>
+        <li><b>Distributed Systems & Blockchain Applications</b></li>
+        <li><b>AI Ethics & Responsible Model Development</b></li>
+      </ul>
+      <h3 align="center">🌱 Current Learning</h3>
+      <ul>
+        <li><b>Large Language Model Fine-tuning & Optimization</b></li>
+        <li><b>Edge AI & TinyML for Resource Constrained Devices</b></li>
+        <li><b>Distributed Systems Architecture</b></li>
+        <li><b>Blockchain Smart Contract Development</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- ANIMATED SKILL BARS -->
 <div align="center">
   <h3>⚡ Skills Progress</h3>
   
-  <table style="border: none; background: transparent; width: 80%;">
-    <tr style="background: transparent;">
-      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Python & ML</td>
-      <td style="width: 60%; background: transparent; border: none;">
-        <img src="https://progress-bar.dev/95/?width=400&color=00B4AB" alt="Python & ML - 95%" />
-      </td>
-    </tr>
-    <tr style="background: transparent;">
-      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
-      <td style="width: 60%; background: transparent; border: none;">
-        <img src="https://progress-bar.dev/85/?width=400&color=CD6799" alt="Web Development - 85%" />
-      </td>
-    </tr>
-    <tr style="background: transparent;">
-      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Computer Vision</td>
-      <td style="width: 60%; background: transparent; border: none;">
-        <img src="https://progress-bar.dev/90/?width=400&color=61DAFB" alt="Computer Vision - 90%" />
-      </td>
-    </tr>
-    <tr style="background: transparent;">
-      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">NLP & Voice AI</td>
-      <td style="width: 60%; background: transparent; border: none;">
-        <img src="https://progress-bar.dev/88/?width=400&color=FF4500" alt="NLP & Voice AI - 88%" />
-      </td>
-    </tr>
-    <tr style="background: transparent;">
-      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Blockchain & Security</td>
-      <td style="width: 60%; background: transparent; border: none;">
-        <img src="https://progress-bar.dev/75/?width=400&color=FFFF00" alt="Blockchain & Security - 75%" />
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <table style="border: none; background: transparent; width: 80%;">
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Python & ML</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/95/?width=400&color=00B4AB" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/85/?width=400&color=CD6799" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Computer Vision</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/90/?width=400&color=61DAFB" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">NLP & Voice AI</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/88/?width=400&color=FF4500" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Blockchain & Security</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/75/?width=400&color=FFFF00" />
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <!-- TECH STACK SECTION -->
@@ -338,7 +318,7 @@
   <a href="https://github.com/codexcherry/codexcherry/stargazers">
     <img src="https://img.shields.io/github/stars/codexcherry/codexcherry?style=for-the-badge&color=gold" alt="Stars" />
   </a>
-  
+
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg?style=for-the-badge" alt="Made with Love" />
 </div>
 
