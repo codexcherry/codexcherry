@@ -36,54 +36,60 @@
     AI & ML specialist with a passion for crafting intelligent systems that solve real-world problems. My journey spans multiple domains:
   </p>
   
-  ```js
-  const nithin = {
-    education: {
-      institute: "M.S. Ramaiah Institute of Technology",
-      degree: "B.E. in AI & ML (2023-2026)",
-      cgpa: 7.73
-    },
-    experience: [
-      { role: "Cybersecurity Engineer Intern", company: "Excerpt Technologies", year: 2023 },
-      { role: "Software Testing Intern", company: "iTriangle Infotech", year: 2023 }
-    ],
-    skills: {
-      languages: ["Python", "C++", "JavaScript", "SQL"],
-      frameworks: ["TensorFlow", "PyTorch", "React", "Node.js"],
-      domains: ["Computer Vision", "NLP", "Full-Stack Dev", "Cybersecurity"]
-    },
-    currentFocus: "Building intelligent systems with ethical AI principles",
-    funFact: "I can debug code in my dreams!"
-  };
-  ```
+  <div align="left" style="background: #0d1117; border-radius: 6px; width: 550px; overflow: hidden;">
+    <pre style="background: #0d1117; padding: 15px; overflow: auto;"><code style="color: #c9d1d9; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;"><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">nithin</span> = {
+  <span style="color: #79c0ff;">education</span>: {
+    <span style="color: #79c0ff;">institute</span>: <span style="color: #a5d6ff;">"M.S. Ramaiah Institute of Technology"</span>,
+    <span style="color: #79c0ff;">degree</span>: <span style="color: #a5d6ff;">"B.E. in AI & ML (2023-2026)"</span>,
+    <span style="color: #79c0ff;">cgpa</span>: <span style="color: #79c0ff;">7.73</span>
+  },
+  <span style="color: #79c0ff;">experience</span>: [
+    { <span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Cybersecurity Engineer Intern"</span>, <span style="color: #79c0ff;">company</span>: <span style="color: #a5d6ff;">"Excerpt Technologies"</span>, <span style="color: #79c0ff;">year</span>: <span style="color: #79c0ff;">2023</span> },
+    { <span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Software Testing Intern"</span>, <span style="color: #79c0ff;">company</span>: <span style="color: #a5d6ff;">"iTriangle Infotech"</span>, <span style="color: #79c0ff;">year</span>: <span style="color: #79c0ff;">2023</span> }
+  ],
+  <span style="color: #79c0ff;">skills</span>: {
+    <span style="color: #79c0ff;">languages</span>: [<span style="color: #a5d6ff;">"Python"</span>, <span style="color: #a5d6ff;">"C++"</span>, <span style="color: #a5d6ff;">"JavaScript"</span>, <span style="color: #a5d6ff;">"SQL"</span>],
+    <span style="color: #79c0ff;">frameworks</span>: [<span style="color: #a5d6ff;">"TensorFlow"</span>, <span style="color: #a5d6ff;">"PyTorch"</span>, <span style="color: #a5d6ff;">"React"</span>, <span style="color: #a5d6ff;">"Node.js"</span>],
+    <span style="color: #79c0ff;">domains</span>: [<span style="color: #a5d6ff;">"Computer Vision"</span>, <span style="color: #a5d6ff;">"NLP"</span>, <span style="color: #a5d6ff;">"Full-Stack Dev"</span>, <span style="color: #a5d6ff;">"Cybersecurity"</span>]
+  },
+  <span style="color: #79c0ff;">currentFocus</span>: <span style="color: #a5d6ff;">"Building intelligent systems with ethical AI principles"</span>,
+  <span style="color: #79c0ff;">funFact</span>: <span style="color: #a5d6ff;">"I can debug code in my dreams!"</span>
+};</code></pre>
+  </div>
 </div>
 
 <!-- TECH RADAR -->
 <div align="center">
   <h3>🧠 Tech Radar & Research Focus</h3>
   
-  <table style="background: transparent; border: none;">
+  <table style="background: transparent; border: none; width: 100%;">
     <tr style="background: transparent;">
-      <td align="center" width="33%" style="background: transparent; border: none;">
-        <img src="https://img.shields.io/badge/AI%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white">
-        <br>
-        <b>Computer Vision & Neural Systems</b>
-        <br>
-        <i>Working on pose estimation models with 97.8% accuracy and low latency</i>
+      <td align="center" width="33%" style="background: transparent; border: none; padding: 10px;">
+        <div style="border-radius: 10px; padding: 15px 10px; background: rgba(92, 45, 145, 0.1);">
+          <img src="https://img.shields.io/badge/AI%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" alt="AI Vision">
+          <br>
+          <b>Computer Vision & Neural Systems</b>
+          <br>
+          <i>Working on pose estimation models with 97.8% accuracy and low latency</i>
+        </div>
       </td>
-      <td align="center" width="33%" style="background: transparent; border: none;">
-        <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-        <br>
-        <b>Advanced Language Models</b>
-        <br>
-        <i>Fine-tuning models on domain-specific data for context-aware applications</i>
+      <td align="center" width="33%" style="background: transparent; border: none; padding: 10px;">
+        <div style="border-radius: 10px; padding: 15px 10px; background: rgba(255, 111, 0, 0.1);">
+          <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP">
+          <br>
+          <b>Advanced Language Models</b>
+          <br>
+          <i>Fine-tuning models on domain-specific data for context-aware applications</i>
+        </div>
       </td>
-      <td align="center" width="33%" style="background: transparent; border: none;">
-        <img src="https://img.shields.io/badge/Edge%20AI-00ADD8?style=for-the-badge&logo=arduino&logoColor=white">
-        <br>
-        <b>Edge Computing & TinyML</b>
-        <br>
-        <i>Optimizing models to run on resource-constrained IoT devices</i>
+      <td align="center" width="33%" style="background: transparent; border: none; padding: 10px;">
+        <div style="border-radius: 10px; padding: 15px 10px; background: rgba(0, 173, 216, 0.1);">
+          <img src="https://img.shields.io/badge/Edge%20AI-00ADD8?style=for-the-badge&logo=arduino&logoColor=white" alt="Edge AI">
+          <br>
+          <b>Edge Computing & TinyML</b>
+          <br>
+          <i>Optimizing models to run on resource-constrained IoT devices</i>
+        </div>
       </td>
     </tr>
   </table>
@@ -93,40 +99,38 @@
 <div align="center">
   <h3>⚡ Skills Progress</h3>
   
-  <div align="center">
-    <table style="border: none; background: transparent; width: 80%;">
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Python & ML</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/95/?width=400&color=00B4AB" />
-        </td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/85/?width=400&color=CD6799" />
-        </td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Computer Vision</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/90/?width=400&color=61DAFB" />
-        </td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">NLP & Voice AI</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/88/?width=400&color=FF4500" />
-        </td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Blockchain & Security</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/75/?width=400&color=FFFF00" />
-        </td>
-      </tr>
-    </table>
-  </div>
+  <table style="border: none; background: transparent; width: 80%;">
+    <tr style="background: transparent;">
+      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Python & ML</td>
+      <td style="width: 60%; background: transparent; border: none;">
+        <img src="https://progress-bar.dev/95/?width=400&color=00B4AB" alt="Python & ML - 95%" />
+      </td>
+    </tr>
+    <tr style="background: transparent;">
+      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
+      <td style="width: 60%; background: transparent; border: none;">
+        <img src="https://progress-bar.dev/85/?width=400&color=CD6799" alt="Web Development - 85%" />
+      </td>
+    </tr>
+    <tr style="background: transparent;">
+      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Computer Vision</td>
+      <td style="width: 60%; background: transparent; border: none;">
+        <img src="https://progress-bar.dev/90/?width=400&color=61DAFB" alt="Computer Vision - 90%" />
+      </td>
+    </tr>
+    <tr style="background: transparent;">
+      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">NLP & Voice AI</td>
+      <td style="width: 60%; background: transparent; border: none;">
+        <img src="https://progress-bar.dev/88/?width=400&color=FF4500" alt="NLP & Voice AI - 88%" />
+      </td>
+    </tr>
+    <tr style="background: transparent;">
+      <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Blockchain & Security</td>
+      <td style="width: 60%; background: transparent; border: none;">
+        <img src="https://progress-bar.dev/75/?width=400&color=FFFF00" alt="Blockchain & Security - 75%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- TECH STACK SECTION -->
