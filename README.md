@@ -26,64 +26,108 @@
   </a>
 </div>
 
-<!-- ABOUT ME SECTION -->
-<h2 align="center">🧑‍💻 About Me</h2>
-
+<!-- ADVANCED ABOUT ME SECTION -->
 <div align="center">
-  <p>
-    I'm a <b>Computer Science Diploma Graduate</b> and current <b>B.E. in Artificial Intelligence & Machine Learning</b> student at <b>M.S. Ramaiah Institute of Technology (2026)</b>. My focus lies at the intersection of AI, human-computer interaction, and system automation.
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> <b>About Me</b></h2>
+  
+  <img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c7e33d8c44d0bd5587c7595a1a6e4a30b6a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+  
+  <p align="left" width="100%">
+    AI & ML specialist with a passion for crafting intelligent systems that solve real-world problems. My journey spans multiple domains:
   </p>
   
-  <p>
-    With a passion for building <b>intelligent systems</b> that solve real-world problems, I specialize in developing <b>automation tools</b>, <b>gesture/voice interfaces</b>, and <b>data-driven applications</b>. My projects have been recognized in hackathons and competitions for their innovation and technical excellence.
-  </p>
+  ```js
+  const nithin = {
+    education: {
+      institute: "M.S. Ramaiah Institute of Technology",
+      degree: "B.E. in AI & ML (2023-2026)",
+      cgpa: 7.73
+    },
+    experience: [
+      { role: "Cybersecurity Engineer Intern", company: "Excerpt Technologies", year: 2023 },
+      { role: "Software Testing Intern", company: "iTriangle Infotech", year: 2023 }
+    ],
+    skills: {
+      languages: ["Python", "C++", "JavaScript", "SQL"],
+      frameworks: ["TensorFlow", "PyTorch", "React", "Node.js"],
+      domains: ["Computer Vision", "NLP", "Full-Stack Dev", "Cybersecurity"]
+    },
+    currentFocus: "Building intelligent systems with ethical AI principles",
+    funFact: "I can debug code in my dreams!"
+  };
+  ```
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Professional Experience</h3>
-      <ul>
-        <li>
-          <b>Cybersecurity Engineer Intern</b> — Excerpt Technologies<br>
-          <i>Enhanced OTP security protocols & implemented firewall configurations</i>
-        </li>
-        <li>
-          <b>Software Testing Intern</b> — iTriangle Infotech<br>
-          <i>Performed automated testing & collaborated with development teams</i>
-        </li>
-      </ul>
-      <h3 align="center">🎓 Education</h3>
-      <ul>
-        <li>
-          <b>B.E. in AI & ML</b> — M.S. Ramaiah Institute of Technology<br>
-          <i>CGPA: 7.73/10.00 (2023-2026)</i>
-        </li>
-        <li>
-          <b>Diploma in Computer Science</b> — Government Polytechnic<br>
-          <i>CGPA: 9.45/10.00 (Completed: 2023)</i>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Research Interests</h3>
-      <ul>
-        <li><b>Computer Vision & Gesture Recognition</b></li>
-        <li><b>Natural Language Processing & Voice Interfaces</b></li>
-        <li><b>Human-Computer Interaction</b></li>
-        <li><b>Distributed Systems & Blockchain Applications</b></li>
-        <li><b>AI Ethics & Responsible Model Development</b></li>
-      </ul>
-      <h3 align="center">🌱 Current Learning</h3>
-      <ul>
-        <li><b>Large Language Model Fine-tuning & Optimization</b></li>
-        <li><b>Edge AI & TinyML for Resource Constrained Devices</b></li>
-        <li><b>Distributed Systems Architecture</b></li>
-        <li><b>Blockchain Smart Contract Development</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<!-- TECH RADAR -->
+<div align="center">
+  <h3>🧠 Tech Radar & Research Focus</h3>
+  
+  <table style="background: transparent; border: none;">
+    <tr style="background: transparent;">
+      <td align="center" width="33%" style="background: transparent; border: none;">
+        <img src="https://img.shields.io/badge/AI%20Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white">
+        <br>
+        <b>Computer Vision & Neural Systems</b>
+        <br>
+        <i>Working on pose estimation models with 97.8% accuracy and low latency</i>
+      </td>
+      <td align="center" width="33%" style="background: transparent; border: none;">
+        <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+        <br>
+        <b>Advanced Language Models</b>
+        <br>
+        <i>Fine-tuning models on domain-specific data for context-aware applications</i>
+      </td>
+      <td align="center" width="33%" style="background: transparent; border: none;">
+        <img src="https://img.shields.io/badge/Edge%20AI-00ADD8?style=for-the-badge&logo=arduino&logoColor=white">
+        <br>
+        <b>Edge Computing & TinyML</b>
+        <br>
+        <i>Optimizing models to run on resource-constrained IoT devices</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ANIMATED SKILL BARS -->
+<div align="center">
+  <h3>⚡ Skills Progress</h3>
+  
+  <div align="center">
+    <table style="border: none; background: transparent; width: 80%;">
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Python & ML</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/95/?width=400&color=00B4AB" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/85/?width=400&color=CD6799" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Computer Vision</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/90/?width=400&color=61DAFB" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">NLP & Voice AI</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/88/?width=400&color=FF4500" />
+        </td>
+      </tr>
+      <tr style="background: transparent;">
+        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Blockchain & Security</td>
+        <td style="width: 60%; background: transparent; border: none;">
+          <img src="https://progress-bar.dev/75/?width=400&color=FFFF00" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 <!-- TECH STACK SECTION -->
 <h2 align="center">🛠️ Tech Stack</h2>
