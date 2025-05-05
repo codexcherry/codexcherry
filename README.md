@@ -117,11 +117,11 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
+  <table style="background: transparent; border: none;">
+    <tr style="background: transparent;">
+      <td width="50%" valign="top" style="background: transparent; border: none;">
         <h3 align="center">OpportunityAI</h3>
-        <div align="center">
+        <div align="center" style="background: transparent;">
           <p align="center">
             <b>AI-Powered Career Assistant</b><br>
             Empowering women through intelligent job matching, ethical AI, and bias-free opportunity discovery. Features gender-neutral NLP processing with 98.7% neutrality score.
@@ -138,9 +138,9 @@
           <p><b>Tech:</b> Next.js, FastAPI, Gemini API, VectorDB, TensorFlow</p>
         </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="background: transparent; border: none;">
         <h3 align="center">TradeX</h3>
-        <div align="center">
+        <div align="center" style="background: transparent;">
           <p align="center">
             <b>AI-Enhanced Stock Dashboard</b><br>
             Advanced stock analytics platform with predictive modeling and real-time market insights. Reduced decision latency by 42% in user tests.
@@ -158,10 +158,10 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%" valign="top">
+    <tr style="background: transparent;">
+      <td width="50%" valign="top" style="background: transparent; border: none;">
         <h3 align="center">Virtual V-0</h3>
-        <div align="center">
+        <div align="center" style="background: transparent;">
           <p align="center">
             <b>Gesture Control System</b><br>
             Computer vision-powered interface allowing hands-free control with 45+ unique gestures. Achieved 94.2% gesture recognition accuracy with 85ms latency.
@@ -178,9 +178,9 @@
           <p><b>Tech:</b> Python, OpenCV, MediaPipe, TensorFlow Lite, PyAutoGUI</p>
         </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="background: transparent; border: none;">
         <h3 align="center">IRIS</h3>
-        <div align="center">
+        <div align="center" style="background: transparent;">
           <p align="center">
             <b>Voice Interface System</b><br>
             Offline speech recognition system with contextual understanding capabilities. Processing 150+ voice commands with 91% accuracy in noisy environments.
@@ -220,109 +220,49 @@
 <h2 align="center">📜 Certifications & Internship Certificates</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20OpenAI%20GPT%20Models-blue?style=for-the-badge" alt="Certificate"/></td>
-      <td><i>Infosys SpringBoard, 2024</i></td>
+  <table style="background: transparent; border: none;">
+    <tr style="background: transparent;">
+      <td style="background: transparent; border: none;"><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20OpenAI%20GPT%20Models-blue?style=for-the-badge" alt="Certificate"/></td>
+      <td style="background: transparent; border: none;"><i>Infosys SpringBoard, 2024</i></td>
     </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20UiPath%20Automation%20Implementation-00B8EB?style=for-the-badge" alt="Certificate"/></td>
-      <td><i>UiPath Academy, 2025</i></td>
+    <tr style="background: transparent;">
+      <td style="background: transparent; border: none;"><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20UiPath%20Automation%20Implementation-00B8EB?style=for-the-badge" alt="Certificate"/></td>
+      <td style="background: transparent; border: none;"><i>UiPath Academy, 2025</i></td>
     </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20Computational%20Theory-purple?style=for-the-badge" alt="Certificate"/></td>
-      <td><i>Infosys SpringBoard, 2024</i></td>
+    <tr style="background: transparent;">
+      <td style="background: transparent; border: none;"><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20Computational%20Theory-purple?style=for-the-badge" alt="Certificate"/></td>
+      <td style="background: transparent; border: none;"><i>Infosys SpringBoard, 2024</i></td>
     </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%F0%9F%94%92%20Cyber%20Security-red?style=for-the-badge" alt="Certificate"/></td>
-      <td><i>Infosys SpringBoard, 2022</i></td>
+    <tr style="background: transparent;">
+      <td style="background: transparent; border: none;"><img src="https://img.shields.io/badge/-%F0%9F%94%92%20Cyber%20Security-red?style=for-the-badge" alt="Certificate"/></td>
+      <td style="background: transparent; border: none;"><i>Infosys SpringBoard, 2022</i></td>
     </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Robotic%20Process%20Automation-green?style=for-the-badge" alt="Certificate"/></td>
-      <td><i>Infosys SpringBoard, 2022</i></td>
+    <tr style="background: transparent;">
+      <td style="background: transparent; border: none;"><img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Robotic%20Process%20Automation-green?style=for-the-badge" alt="Certificate"/></td>
+      <td style="background: transparent; border: none;"><i>Infosys SpringBoard, 2022</i></td>
     </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Security%20Internship-teal?style=for-the-badge" alt="Certificate"/></td>
-      <td><i>Excerpt Technologies Pvt. Ltd., 2023</i></td>
+    <tr style="background: transparent;">
+      <td style="background: transparent; border: none;"><img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Security%20Internship-teal?style=for-the-badge" alt="Certificate"/></td>
+      <td style="background: transparent; border: none;"><i>Excerpt Technologies Pvt. Ltd., 2023</i></td>
     </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-%F0%9F%A7%AA%20Software%20Testing%20Internship-orange?style=for-the-badge" alt="Certificate"/></td>
-      <td><i>iTriangle Infotech Pvt. Ltd., 2023</i></td>
+    <tr style="background: transparent;">
+      <td style="background: transparent; border: none;"><img src="https://img.shields.io/badge/-%F0%9F%A7%AA%20Software%20Testing%20Internship-orange?style=for-the-badge" alt="Certificate"/></td>
+      <td style="background: transparent; border: none;"><i>iTriangle Infotech Pvt. Ltd., 2023</i></td>
     </tr>
   </table>
 </div>
 
-<!-- CONTACT SECTION - ENHANCED -->
+<!-- CONTACT SECTION - SIMPLIFIED -->
 <h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/nithin-v-s-8416b1295">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          <br />
-          <b>LinkedIn</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:nithinchari123@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-          <br />
-          <b>Email</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/codexcherry">
-          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          <br />
-          <b>GitHub</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <div align="center">
-    <details>
-      <summary><h3>📇 Full Contact Details</h3></summary>
-      <div align="left" style="background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; width: 80%; margin: 0 auto;">
-        <table align="center" style="width: 100%;">
-          <tr>
-            <td><b>🧑‍💼 Full Name:</b></td>
-            <td>Nithin V S</td>
-          </tr>
-          <tr>
-            <td><b>📱 Phone:</b></td>
-            <td>+91 8073840551</td>
-          </tr>
-          <tr>
-            <td><b>📧 Email:</b></td>
-            <td><a href="mailto:nithinchari123@gmail.com">nithinchari123@gmail.com</a></td>
-          </tr>
-          <tr>
-            <td><b>🔗 LinkedIn:</b></td>
-            <td><a href="https://linkedin.com/in/nithin-v-s-8416b1295">linkedin.com/in/nithin-v-s-8416b1295</a></td>
-          </tr>
-          <tr>
-            <td><b>🌐 GitHub:</b></td>
-            <td><a href="https://github.com/codexcherry">github.com/codexcherry</a></td>
-          </tr>
-          <tr>
-            <td><b>📍 Location:</b></td>
-            <td>Bangalore, India</td>
-          </tr>
-          <tr>
-            <td><b>⏰ Timezone:</b></td>
-            <td>IST (UTC+5:30)</td>
-          </tr>
-          <tr>
-            <td><b>💬 Languages:</b></td>
-            <td>English, Hindi, Kannada</td>
-          </tr>
-        </table>
-      </div>
-    </details>
-  </div>
+  <a href="https://linkedin.com/in/nithin-v-s-8416b1295">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nithinchari123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 <!-- FOOTER SECTION -->
