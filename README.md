@@ -222,54 +222,107 @@
 <div align="center">
   <table>
     <tr>
-      <td>✅ Introduction to OpenAI GPT Models</td>
+      <td><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20OpenAI%20GPT%20Models-blue?style=for-the-badge" alt="Certificate"/></td>
       <td><i>Infosys SpringBoard, 2024</i></td>
     </tr>
     <tr>
-      <td>✅ UiPath Automation Implementation Methodology Fundamentals</td>
+      <td><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20UiPath%20Automation%20Implementation-00B8EB?style=for-the-badge" alt="Certificate"/></td>
       <td><i>UiPath Academy, 2025</i></td>
     </tr>
     <tr>
-      <td>✅ Computational Theory: Language Principles & Finite Automata</td>
+      <td><img src="https://img.shields.io/badge/-%F0%9F%93%9A%20Computational%20Theory-purple?style=for-the-badge" alt="Certificate"/></td>
       <td><i>Infosys SpringBoard, 2024</i></td>
     </tr>
     <tr>
-      <td>✅ Introduction to Cyber Security</td>
+      <td><img src="https://img.shields.io/badge/-%F0%9F%94%92%20Cyber%20Security-red?style=for-the-badge" alt="Certificate"/></td>
       <td><i>Infosys SpringBoard, 2022</i></td>
     </tr>
     <tr>
-      <td>✅ Introduction to Robotic Process Automation</td>
+      <td><img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Robotic%20Process%20Automation-green?style=for-the-badge" alt="Certificate"/></td>
       <td><i>Infosys SpringBoard, 2022</i></td>
     </tr>
     <tr>
-      <td>✅ Cyber Security Engineer Internship Certificate</td>
+      <td><img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Cyber%20Security%20Internship-teal?style=for-the-badge" alt="Certificate"/></td>
       <td><i>Excerpt Technologies Pvt. Ltd., 2023</i></td>
     </tr>
     <tr>
-      <td>✅ Software Testing Internship Certificate</td>
+      <td><img src="https://img.shields.io/badge/-%F0%9F%A7%AA%20Software%20Testing%20Internship-orange?style=for-the-badge" alt="Certificate"/></td>
       <td><i>iTriangle Infotech Pvt. Ltd., 2023</i></td>
     </tr>
   </table>
 </div>
 
-<!-- CONTACT SECTION -->
-<h2 align="center">📫 Contact Me</h2>
+<!-- CONTACT SECTION - ENHANCED -->
+<h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-  <pre>
-    Name: Nithin V S
-    Email: nithinchari123@gmail.com
-    Phone: +91 8073840551
-    LinkedIn: <a href="https://linkedin.com/in/nithin-v-s-8416b1295">Nithin V S</a>
-    GitHub: <a href="https://github.com/codexcherry">codexcherry</a>
-  </pre>
-</div>
-
-<!-- SPOTIFY WIDGET (OPTIONAL) -->
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31uxsyg4po5s4r6zx4vflvufvpma&cover_image=true&theme=novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uxsyg4po5s4r6zx4vflvufvpma&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/nithin-v-s-8416b1295">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <br />
+          <b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:nithinchari123@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+          <br />
+          <b>Email</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/codexcherry">
+          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <br />
+          <b>GitHub</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <details>
+      <summary><h3>📇 Full Contact Details</h3></summary>
+      <div align="left" style="background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; width: 80%; margin: 0 auto;">
+        <table align="center" style="width: 100%;">
+          <tr>
+            <td><b>🧑‍💼 Full Name:</b></td>
+            <td>Nithin V S</td>
+          </tr>
+          <tr>
+            <td><b>📱 Phone:</b></td>
+            <td>+91 8073840551</td>
+          </tr>
+          <tr>
+            <td><b>📧 Email:</b></td>
+            <td><a href="mailto:nithinchari123@gmail.com">nithinchari123@gmail.com</a></td>
+          </tr>
+          <tr>
+            <td><b>🔗 LinkedIn:</b></td>
+            <td><a href="https://linkedin.com/in/nithin-v-s-8416b1295">linkedin.com/in/nithin-v-s-8416b1295</a></td>
+          </tr>
+          <tr>
+            <td><b>🌐 GitHub:</b></td>
+            <td><a href="https://github.com/codexcherry">github.com/codexcherry</a></td>
+          </tr>
+          <tr>
+            <td><b>📍 Location:</b></td>
+            <td>Bangalore, India</td>
+          </tr>
+          <tr>
+            <td><b>⏰ Timezone:</b></td>
+            <td>IST (UTC+5:30)</td>
+          </tr>
+          <tr>
+            <td><b>💬 Languages:</b></td>
+            <td>English, Hindi, Kannada</td>
+          </tr>
+        </table>
+      </div>
+    </details>
+  </div>
 </div>
 
 <!-- FOOTER SECTION -->
