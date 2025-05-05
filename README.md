@@ -69,10 +69,6 @@
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> <b>About Me</b></h2>
   
   <img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c7e33d8c44d0bd5587c7595a1a6e4a30b6a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
-  
-  <p align="left" width="100%">
-    AI & ML specialist with a passion for crafting intelligent systems that solve real-world problems. My journey spans multiple domains:
-  </p>
 </div>
 
 <!-- TECH RADAR -->
