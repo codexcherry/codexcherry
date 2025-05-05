@@ -3,10 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Nithin+V+S+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
 </div>
 
-<!-- CONTRIBUTION ANIMATION - SPACE INVADERS -->
+<!-- CONTRIBUTION ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Space Invaders Game - Watch my contribution graph get eaten by space invaders!" width="100%"/>
-  <p align="center"><i>GitHub Space Invaders - Turns commits into Space Invaders enemies!</i></p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Animation" width="100%"/>
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
