@@ -28,6 +28,44 @@
 
 <!-- ADVANCED ABOUT ME SECTION -->
 <div align="center">
+  <h2>🚀 <b>About Me</b></h2>
+  <table style="width:100%; border:none; background:transparent;">
+    <tr style="background:transparent;">
+      <td style="width:55%; vertical-align:top; background:transparent; border:none;">
+        <p align="left" style="font-size:1.1em;">
+          <img src="https://img.shields.io/badge/-AI%20%26%20ML%20Engineer-0d1117?style=flat-square&logo=python&logoColor=yellow"/>
+          <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/-Cybersecurity%20Explorer-0d1117?style=flat-square&logo=hackthebox&logoColor=green"/>
+          <br><br>
+          Hi! I'm <b>Nithin V S</b>, a passionate engineer who loves building intelligent, ethical, and impactful technology.<br><br>
+          <ul>
+            <li>🎓 <b>B.E. in AI & ML</b> @ MSRIT (2023-2026), CGPA: 7.73</li>
+            <li>💼 <b>Internships:</b> Cybersecurity @ Excerpt Technologies, Software Testing @ iTriangle Infotech</li>
+            <li>🧠 <b>Focus:</b> Computer Vision, NLP, Edge AI, Blockchain, Ethical AI</li>
+            <li>🏆 <b>Fun Fact:</b> I can debug code in my dreams!</li>
+          </ul>
+        </p>
+      </td>
+      <td style="width:45%; vertical-align:top; background:transparent; border:none;">
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+        </div>
+        <br>
+        <div align="center">
+          <img src="https://img.shields.io/badge/AI%20%7C%20ML-blue?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Computer%20Vision-green?style=flat-square"/>
+          <img src="https://img.shields.io/badge/NLP-orange?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Edge%20AI-cyan?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Blockchain-black?style=flat-square"/>
+        </div>
+      </td>
+    </tr>
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> <b>About Me</b></h2>
   
   <img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c7e33d8c44d0bd5587c7595a1a6e4a30b6a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
