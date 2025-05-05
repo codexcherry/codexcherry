@@ -3,9 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Nithin+V+S+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
 </div>
 
-<!-- CONTRIBUTION ANIMATION -->
+<!-- CONTRIBUTION ANIMATION - SPACE INVADERS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Space Shooter Game" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Space Invaders Game - Watch my contribution graph get eaten by space invaders!" width="100%"/>
+  <p align="center"><i>GitHub Space Invaders - Turns commits into Space Invaders enemies!</i></p>
 </div>
 
 <!-- PROFILE VIEWS COUNTER -->
@@ -216,21 +217,21 @@
 </div>
 
 <!-- CERTIFICATIONS SECTION -->
-<h2 align="center">📜 Certifications</h2>
+<h2 align="center">📜 Certifications & Internship Certificates</h2>
 
 <div align="center">
   <table>
-    <tr>
-      <td>✅ UiPath Automation Implementation Methodology</td>
-      <td><i>2025</i></td>
-    </tr>
     <tr>
       <td>✅ Introduction to OpenAI GPT Models</td>
       <td><i>Infosys SpringBoard, 2024</i></td>
     </tr>
     <tr>
+      <td>✅ UiPath Automation Implementation Methodology Fundamentals</td>
+      <td><i>UiPath Academy, 2025</i></td>
+    </tr>
+    <tr>
       <td>✅ Computational Theory: Language Principles & Finite Automata</td>
-      <td><i>2024</i></td>
+      <td><i>Infosys SpringBoard, 2024</i></td>
     </tr>
     <tr>
       <td>✅ Introduction to Cyber Security</td>
@@ -239,6 +240,14 @@
     <tr>
       <td>✅ Introduction to Robotic Process Automation</td>
       <td><i>Infosys SpringBoard, 2022</i></td>
+    </tr>
+    <tr>
+      <td>✅ Cyber Security Engineer Internship Certificate</td>
+      <td><i>Excerpt Technologies Pvt. Ltd., 2023</i></td>
+    </tr>
+    <tr>
+      <td>✅ Software Testing Internship Certificate</td>
+      <td><i>iTriangle Infotech Pvt. Ltd., 2023</i></td>
     </tr>
   </table>
 </div>
@@ -267,7 +276,4 @@
 <hr>
 <div align="center">
   <h3>Thanks for visiting!👋</h3>
-  <a href="https://github.com/codexcherry/codexcherry/discussions/1">
-    <img src="https://img.shields.io/badge/Dark%20Mode-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Toggle Dark Mode"/>
-  </a>
 </div>
