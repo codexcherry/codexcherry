@@ -97,27 +97,15 @@
       </tr>
       <tr style="background: transparent;">
         <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/85/?width=400&color=CD6799" />
-        </td>
       </tr>
       <tr style="background: transparent;">
         <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Computer Vision</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/90/?width=400&color=61DAFB" />
-        </td>
       </tr>
       <tr style="background: transparent;">
         <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">NLP & Voice AI</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/88/?width=400&color=FF4500" />
-        </td>
       </tr>
       <tr style="background: transparent;">
         <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Blockchain & Security</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/75/?width=400&color=FFFF00" />
-        </td>
       </tr>
     </table>
   </div>
