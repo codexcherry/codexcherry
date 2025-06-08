@@ -94,9 +94,6 @@
     <table style="border: none; background: transparent; width: 80%;">
       <tr style="background: transparent;">
         <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Python & ML</td>
-        <td style="width: 60%; background: transparent; border: none;">
-          <img src="https://progress-bar.dev/95/?width=400&color=00B4AB" />
-        </td>
       </tr>
       <tr style="background: transparent;">
         <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
