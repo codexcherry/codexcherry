@@ -89,13 +89,30 @@
 
 ## ⚡ Skills Progress
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/skill-python.svg" alt="Python & ML" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/skill-webdev.svg" alt="Web Development" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/skill-cv.svg" alt="Computer Vision" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/skill-nlp.svg" alt="NLP & Voice AI" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/skill-blockchain.svg" alt="Blockchain & Security" />
-</p>
+<div align="center">
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python_&_ML-90%25-00ffe7?style=for-the-badge&labelColor=111&color=0077ff" alt="Python & ML" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Web_Development-85%25-00ffe7?style=for-the-badge&labelColor=111&color=0077ff" alt="Web Development" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Computer_Vision-75%25-00ffe7?style=for-the-badge&labelColor=111&color=0077ff" alt="Computer Vision" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/NLP_&_Voice_AI-80%25-00ffe7?style=for-the-badge&labelColor=111&color=0077ff" alt="NLP & Voice AI" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Blockchain_&_Security-65%25-00ffe7?style=for-the-badge&labelColor=111&color=0077ff" alt="Blockchain & Security" />
+  </a>
+
+</div>
+
 
 
 
