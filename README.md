@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Nithin+V+S+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Nithin+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
 </div>
 
 <!-- CONTRIBUTION ANIMATION -->
@@ -58,7 +58,7 @@
       <ul>
         <li>
           <b>B.E. in AI & ML</b> — M.S. Ramaiah Institute of Technology<br>
-          <i>CGPA: 7.73/10.00 (2023-2026)</i>
+          <i>CGPA: 7.79/10.00 (2023-2026)</i>
         </li>
         <li>
           <b>Diploma in Computer Science</b> — Government Polytechnic<br>
