@@ -90,27 +90,80 @@
 <!-- ANIMATED SKILL BARS -->
 <div align="center">
   <h3>⚡ Skills Progress</h3>
-  
-  <div align="center">
-    <table style="border: none; background: transparent; width: 80%;">
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Python & ML</td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Web Development</td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Computer Vision</td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">NLP & Voice AI</td>
-      </tr>
-      <tr style="background: transparent;">
-        <td style="width: 40%; text-align: right; padding-right: 10px; background: transparent; border: none;">Blockchain & Security</td>
-      </tr>
-    </table>
+  <style>
+    .skill-container {
+      width: 80%;
+      background: #111;
+      border-radius: 20px;
+      padding: 10px;
+      margin-bottom: 15px;
+      box-shadow: 0 0 10px #0ff;
+    }
+    .skill-title {
+      color: #00ffe7;
+      text-align: left;
+      margin-left: 10px;
+      font-weight: bold;
+    }
+    .skill-bar {
+      width: 100%;
+      background-color: #333;
+      border-radius: 10px;
+      overflow: hidden;
+      height: 18px;
+      margin-top: 5px;
+    }
+    .skill-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #00ffe7, #0077ff);
+      text-align: right;
+      line-height: 18px;
+      color: #000;
+      padding-right: 8px;
+      font-size: 12px;
+      font-weight: bold;
+      animation: fillBar 2s ease-in-out forwards;
+      width: 0%;
+    }
+    @keyframes fillBar {
+      to {
+        width: var(--skill-level);
+      }
+    }
+  </style>
+
+  <div class="skill-container">
+    <div class="skill-title">Python & ML</div>
+    <div class="skill-bar">
+      <div class="skill-fill" style="--skill-level: 90%;">90%</div>
+    </div>
+  </div>
+  <div class="skill-container">
+    <div class="skill-title">Web Development</div>
+    <div class="skill-bar">
+      <div class="skill-fill" style="--skill-level: 85%;">85%</div>
+    </div>
+  </div>
+  <div class="skill-container">
+    <div class="skill-title">Computer Vision</div>
+    <div class="skill-bar">
+      <div class="skill-fill" style="--skill-level: 75%;">75%</div>
+    </div>
+  </div>
+  <div class="skill-container">
+    <div class="skill-title">NLP & Voice AI</div>
+    <div class="skill-bar">
+      <div class="skill-fill" style="--skill-level: 80%;">80%</div>
+    </div>
+  </div>
+  <div class="skill-container">
+    <div class="skill-title">Blockchain & Security</div>
+    <div class="skill-bar">
+      <div class="skill-fill" style="--skill-level: 65%;">65%</div>
+    </div>
   </div>
 </div>
+
 
 <!-- TECH STACK SECTION -->
 <h2 align="center">🛠️ Tech Stack</h2>
