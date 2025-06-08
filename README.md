@@ -87,82 +87,14 @@
   </tr>
 </table>
 
-<!-- ANIMATED SKILL BARS -->
-<div align="center">
-  <h3>⚡ Skills Progress</h3>
-  <style>
-    .skill-container {
-      width: 80%;
-      background: #111;
-      border-radius: 20px;
-      padding: 10px;
-      margin-bottom: 15px;
-      box-shadow: 0 0 10px #0ff;
-    }
-    .skill-title {
-      color: #00ffe7;
-      text-align: left;
-      margin-left: 10px;
-      font-weight: bold;
-    }
-    .skill-bar {
-      width: 100%;
-      background-color: #333;
-      border-radius: 10px;
-      overflow: hidden;
-      height: 18px;
-      margin-top: 5px;
-    }
-    .skill-fill {
-      height: 100%;
-      background: linear-gradient(90deg, #00ffe7, #0077ff);
-      text-align: right;
-      line-height: 18px;
-      color: #000;
-      padding-right: 8px;
-      font-size: 12px;
-      font-weight: bold;
-      animation: fillBar 2s ease-in-out forwards;
-      width: 0%;
-    }
-    @keyframes fillBar {
-      to {
-        width: var(--skill-level);
-      }
-    }
-  </style>
+## ⚡ Skills Progress
 
-  <div class="skill-container">
-    <div class="skill-title">Python & ML</div>
-    <div class="skill-bar">
-      <div class="skill-fill" style="--skill-level: 90%;">90%</div>
-    </div>
-  </div>
-  <div class="skill-container">
-    <div class="skill-title">Web Development</div>
-    <div class="skill-bar">
-      <div class="skill-fill" style="--skill-level: 85%;">85%</div>
-    </div>
-  </div>
-  <div class="skill-container">
-    <div class="skill-title">Computer Vision</div>
-    <div class="skill-bar">
-      <div class="skill-fill" style="--skill-level: 75%;">75%</div>
-    </div>
-  </div>
-  <div class="skill-container">
-    <div class="skill-title">NLP & Voice AI</div>
-    <div class="skill-bar">
-      <div class="skill-fill" style="--skill-level: 80%;">80%</div>
-    </div>
-  </div>
-  <div class="skill-container">
-    <div class="skill-title">Blockchain & Security</div>
-    <div class="skill-bar">
-      <div class="skill-fill" style="--skill-level: 65%;">65%</div>
-    </div>
-  </div>
-</div>
+![Python & ML](https://img.shields.io/badge/Python_&_ML-90%25-0077b5?style=for-the-badge&labelColor=111&color=00ffe7)
+![Web Development](https://img.shields.io/badge/Web_Development-85%25-0077b5?style=for-the-badge&labelColor=111&color=00ffe7)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-75%25-0077b5?style=for-the-badge&labelColor=111&color=00ffe7)
+![NLP & Voice AI](https://img.shields.io/badge/NLP_&_Voice_AI-80%25-0077b5?style=for-the-badge&labelColor=111&color=00ffe7)
+![Blockchain & Security](https://img.shields.io/badge/Blockchain_&_Security-65%25-0077b5?style=for-the-badge&labelColor=111&color=00ffe7)
+
 
 
 <!-- TECH STACK SECTION -->
