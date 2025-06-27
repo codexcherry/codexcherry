@@ -139,7 +139,7 @@
 
 <!-- GITHUB STREAK AND LANGUAGES -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexcherry&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=codexcherry&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexcherry&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
