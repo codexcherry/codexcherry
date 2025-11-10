@@ -59,7 +59,6 @@
       <ul>
         <li>
           <b>B.E. in AI & ML</b> — M.S. Ramaiah Institute of Technology<br>
-          <i>CGPA: 7.79/10.00 (2023-2026)</i>
         </li>
         <li>
           <b>Diploma in Computer Science</b> — Government Polytechnic<br>
@@ -145,12 +144,15 @@
 
 
 <!-- ACHIEVEMENTS SECTION -->
-<h2 align="center"> Achievements</h2>
+<h2 align="center">Achievements</h2>
 
 <div align="center">
   <ul align="center" style="list-style-position: inside;">
-    <li> <b>2nd Prize</b> – XtractAI Datathon @ RIT Techfest 2025</li>
-    <li> <b>2nd Prize</b> – Stock Fusion Hackathon @ REVA University 2025</li>
+    <li><b>1st Runner-Up</b> – XtractAI Datathon @ RIT Techfest 2025</li>
+    <li><b>1st Runner-Up</b> – Stock Fusion Hackathon @ REVA University 2025</li>
+    <li><b>National Semi-Finalist</b> – Flipkart GRiD 7.0 2025</li>
+    <li><b>Semi-Finalist</b> – Samsung PRISM Gen AI Hackathon 2025</li>
+    <li><b>Core Member</b> – EcoMind AI Club</li>
   </ul>
 </div>
 
