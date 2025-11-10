@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Cherry+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Nithin+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Explorer" alt="Typing Animation" />
 </div>
 
 <!-- CONTRIBUTION ANIMATION -->
@@ -29,7 +29,7 @@
 
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
   <p>
@@ -44,7 +44,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💼 Professional Experience</h3>
+      <h3 align="center">Professional Experience</h3>
       <ul>
         <li>
           <b>Cybersecurity Engineer Intern</b> — Excerpt Technologies<br>
@@ -55,7 +55,7 @@
           <i>Performed automated testing & collaborated with development teams</i>
         </li>
       </ul>
-      <h3 align="center">🎓 Education</h3>
+      <h3 align="center">Education</h3>
       <ul>
         <li>
           <b>B.E. in AI & ML</b> — M.S. Ramaiah Institute of Technology<br>
@@ -68,7 +68,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Research Interests</h3>
+      <h3 align="center">Research Interests</h3>
       <ul>
         <li><b>Computer Vision & Gesture Recognition</b></li>
         <li><b>Natural Language Processing & Voice Interfaces</b></li>
@@ -76,7 +76,7 @@
         <li><b>Distributed Systems & Blockchain Applications</b></li>
         <li><b>AI Ethics & Responsible Model Development</b></li>
       </ul>
-      <h3 align="center">🌱 Current Learning</h3>
+      <h3 align="center">Current Learning</h3>
       <ul>
         <li><b>Large Language Model Fine-tuning & Optimization</b></li>
         <li><b>Edge AI & TinyML for Resource Constrained Devices</b></li>
@@ -87,7 +87,7 @@
   </tr>
 </table>
 
-## ⚡ Skills Progress
+##  Skills Progress
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 
 
 <!-- TECH STACK SECTION -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,express,postgres,opencv,git,vscode&theme=dark" alt="Skills"/>
@@ -125,7 +125,7 @@
 
 <div align="center">
   <details>
-    <summary><b>🔄 More Skills</b></summary>
+    <summary><b> More Skills</b></summary>
     <div>
       <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/MediaPipe-007ACC?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
@@ -145,12 +145,12 @@
 
 
 <!-- ACHIEVEMENTS SECTION -->
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center"> Achievements</h2>
 
 <div align="center">
   <ul align="center" style="list-style-position: inside;">
-    <li>🥈 <b>2nd Prize</b> – XtractAI Datathon @ RIT Techfest 2025</li>
-    <li>🥈 <b>2nd Prize</b> – Stock Fusion Hackathon @ REVA University 2025</li>
+    <li> <b>2nd Prize</b> – XtractAI Datathon @ RIT Techfest 2025</li>
+    <li> <b>2nd Prize</b> – Stock Fusion Hackathon @ REVA University 2025</li>
   </ul>
 </div>
 
@@ -160,7 +160,7 @@
 </div>
 
 <!-- CERTIFICATIONS SECTION -->
-<h2 align="center">📜 Certifications & Internship Certificates</h2>
+<h2 align="center"> Certifications & Internship Certificates</h2>
 
 <div align="center">
   <table style="background: transparent; border: none;">
@@ -196,7 +196,7 @@
 </div>
 
 <!-- CONTACT SECTION - SIMPLIFIED -->
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/nithin-v-s-8416b1295">
