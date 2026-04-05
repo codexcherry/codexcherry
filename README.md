@@ -27,65 +27,6 @@
   </a>
 </div>
 
-
-<!-- ABOUT ME SECTION -->
-<h2 align="center">About Me</h2>
-
-<div align="center">
-  <p>
-    I'm a <b>Computer Science Diploma Graduate</b> and current <b>B.E. in Artificial Intelligence & Machine Learning</b> student at <b>M.S. Ramaiah Institute of Technology (2026)</b>. My focus lies at the intersection of AI, human-computer interaction, and system automation.
-  </p>
-
-  <p>
-    With a passion for building <b>intelligent systems</b> that solve real-world problems, I specialize in developing <b>automation tools</b>, <b>gesture/voice interfaces</b>, and <b>data-driven applications</b>. My projects have been recognized in hackathons and competitions for their innovation and technical excellence.
-  </p>
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Professional Experience</h3>
-      <ul>
-        <li>
-          <b>Cybersecurity Engineer Intern</b> — Excerpt Technologies<br>
-          <i>Enhanced OTP security protocols & implemented firewall configurations</i>
-        </li>
-        <li>
-          <b>Software Testing Intern</b> — iTriangle Infotech<br>
-          <i>Performed automated testing & collaborated with development teams</i>
-        </li>
-      </ul>
-      <h3 align="center">Education</h3>
-      <ul>
-        <li>
-          <b>B.E. in AI & ML</b> — M.S. Ramaiah Institute of Technology<br>
-        </li>
-        <li>
-          <b>Diploma in Computer Science</b> — Government Polytechnic<br>
-          <i>CGPA: 9.45/10.00 (Completed: 2023)</i>
-        </li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Research Interests</h3>
-      <ul>
-        <li><b>Computer Vision & Gesture Recognition</b></li>
-        <li><b>Natural Language Processing & Voice Interfaces</b></li>
-        <li><b>Human-Computer Interaction</b></li>
-        <li><b>Distributed Systems & Blockchain Applications</b></li>
-        <li><b>AI Ethics & Responsible Model Development</b></li>
-      </ul>
-      <h3 align="center">Current Learning</h3>
-      <ul>
-        <li><b>Large Language Model Fine-tuning & Optimization</b></li>
-        <li><b>Edge AI & TinyML for Resource Constrained Devices</b></li>
-        <li><b>Distributed Systems Architecture</b></li>
-        <li><b>Blockchain Smart Contract Development</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ##  Skills Progress
 
 <div align="center">
